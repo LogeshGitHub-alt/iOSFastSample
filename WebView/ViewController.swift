@@ -40,7 +40,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
 #endif
         webViewHolder.isHidden = true
         self.textField.delegate = self
-        textField.text = "https://securepayments.alrajhibank.com.sa/acsMerchDemoREST_UAT/jsp/fss/HostedPaymentIndex.jsp"
+       
         // Do any additional setup after loading the view.
     }
     
